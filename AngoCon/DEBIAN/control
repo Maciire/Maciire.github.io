@@ -1,0 +1,10 @@
+Package: io.maciire.angocon
+Name: AngoCon
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Theme from Android port to iOS
+Depiction:
+Homepage: http://maciire.github.io
+Maintainer: Maciire <macire_10@hotmail.com>
+Author: Maciire <macire_10@hotmail.com>
+Section: Themes
